@@ -24,7 +24,7 @@ Further analysis has been undertaken on both the Northern Hemisphere and Souther
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-Output files: [Outputs] (WeatherPy/Output)
+Output files: [Outputs](WeatherPy/Output)
 
 ## VacationPy
 
@@ -37,4 +37,4 @@ In addition, Google Places API has been utilised to find the first hotel located
 * A humidity level below 50%
 * A cloudiness level equal to 0%
 
-Output files: [Outputs] (VacationPy/Images)
+Output files: [Outputs](VacationPy/Images)
